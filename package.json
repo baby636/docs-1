@@ -104,7 +104,7 @@
     "eslint": "^7.17.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "husky": "^4.3.0",
+    "husky": "^4.3.7",
     "markdown-link-check": "^3.8.5",
     "next-transpile-modules": "^5.0.0",
     "react": "^17.0.1",
