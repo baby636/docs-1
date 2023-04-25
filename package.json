@@ -91,7 +91,7 @@
     "unist-util-visit": "^2.0.3",
     "use-events": "^1.4.2",
     "use-is-in-viewport": "^1.0.9",
-    "yaml-loader": "^0.6.0"
+    "yaml-loader": "^0.7.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
@@ -104,7 +104,7 @@
     "eslint": "^7.17.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "husky": "^4.3.0",
+    "husky": "^5.0.0",
     "markdown-link-check": "^3.8.5",
     "next-transpile-modules": "^5.0.0",
     "react": "^17.0.1",
