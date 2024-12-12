@@ -96,7 +96,7 @@
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
     "@blockstack/prettier-config": "^0.0.6",
-    "@next/bundle-analyzer": "^10.0.3",
+    "@next/bundle-analyzer": "^10.0.4",
     "@stacks/eslint-config": "^1.0.7",
     "@typescript-eslint/eslint-plugin": "^4.1.0",
     "@typescript-eslint/parser": "^4.1.0",
